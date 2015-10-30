@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/bianrh/maple/vendor/marvell-sdk/ampsdk/amp/src/dev/sm'
+let g:netrw_dirhist_2='/home/bianrh/maple/vendor/marvell/build/configs'
+let g:netrw_dirhist_3='/home/bianrh/maple/vendor/marvell/midas-tv/frameworks/midas_server/libs/input'
+let g:netrw_dirhist_4='/home/bianrh/maple/vendor/marvell/midas-tv/frameworks/midas_server/include'
+let g:netrw_dirhist_5='/home/bianrh/maple/vendor/marvell/midas-tv/frameworks/av_settings/avsettings_tv'
+let g:netrw_dirhist_6='/home/bianrh/maple/vendor/marvell/midas-tv/frameworks/midas_server/include'
+let g:netrw_dirhist_7='/home/bianrh/maple/vendor/marvell'
+let g:netrw_dirhist_8='/home/bianrh/maple.bak/vendor/marvell-sdk/ampsdk/amp/src/service/display/inc'
